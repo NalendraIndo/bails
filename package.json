@@ -1,17 +1,17 @@
 {
-    "name": "@RILLYZY/bails",
+    "name": "@NalendraIndo/bails",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By R",
+    "description": "WhatsApp API Modification By Nalendra",
     "keywords": [
         "whatsapp",
-        "RilzX7"
+        "Nalendra"
     ],
-    "homepage": "https://github.com/RILLYZY/bails",
+    "homepage": "https://github.com/NalendraIndo/bails",
     "repository": {
-        "url": "https://github.com/RILLYZY/bails"
+        "url": "https://github.com/NalendraIndo/bails"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "Nalendra",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
